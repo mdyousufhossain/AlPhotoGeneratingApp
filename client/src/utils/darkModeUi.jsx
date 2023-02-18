@@ -1,5 +1,5 @@
 import React from 'react';
-import useDarkMode from './darkmode';
+import useDarkMode from './darkMode';
 
 function Sun({ size }) {
   return (
