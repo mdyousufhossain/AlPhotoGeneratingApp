@@ -14,7 +14,7 @@ const App = () => {
           <Route  path="/" element={<HomePage />}/>
           <Route  path="/create-post" element={<CreatePostPage />}/>
         </Routes>
-        <div className='bg-slate-700 dark:bg-slate-900   w-[60px] h-[60px] rounded-full absolute right-5 bottom-5  z-10 flex items-center justify-center '>
+        <div className='bg-slate-700 dark:bg-slate-900   w-[60px] h-[60px] rounded-full fixed right-5 bottom-5  z-10 flex items-center justify-center '>
             <ThemeIcon />
         </div>
       </main>
