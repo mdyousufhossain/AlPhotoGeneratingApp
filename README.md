@@ -1,4 +1,5 @@
 <h1>Welcome to another MERN Application <br /> Ai Photo Generator App using Open Ai API </h1>
+<p> I used React for Fontend , Express for the backend and mongo db and cloudinary for the database and image CDN . and of course OpenAi API
 
 <h3> <span style="color:red" > WARING: </span> Since OpenAI going wild  you might have some issue while generating new image </h3>
 Visit : https://al-photo-generating-app.vercel.app
