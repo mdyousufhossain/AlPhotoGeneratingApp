@@ -55,11 +55,13 @@ Request Type: GET
 <h3>POST /api/v1/post</h3>
 <strong><h4>Description: Create a new post and store it in the MongoDB database.</h4></strong>
 
-Request Type: POST
+<ul>
+<li> Request Type: POST</li>
 
-Request Body:
-
-Content-Type: application/json
+<li>Request Body:</li>
+<li>
+Content-Type: application/json</li>
+</ul>
 
 `{
   "name": "Post Name",
